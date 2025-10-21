@@ -121,9 +121,7 @@ Visit → [http://localhost:8080/HostelBookingSystem/](http://localhost:8080/Hos
 
 ---
 
-## 👩‍💻 Developer
 
-*Developed by:* Amrita Hariharan
 💡 Design inspiration: [Unsplash](https://unsplash.com) & [Bootstrap Icons](https://icons.getbootstrap.com)
 
 ---
